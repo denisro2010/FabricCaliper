@@ -1,0 +1,41 @@
+name: Caliper Benchmarks
+version: "2.0.0"
+
+caliper:
+  blockchain: fabric
+  gateway:
+      usegateway: true
+      discovery: true
+
+channels:
+  - channelName: mychannel
+    contracts:
+    - id: basic
+
+organizations:
+  - mspid: Org1MSP
+    identities:
+      certificates:
+      - name: 'User1'
+        clientPrivateKey:
+          path: '/home/denis/fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/keystore/a953c04f8ac71317f27631f3b66192cf67737c2e0c2ce184783453236812745b_sk'
+        clientSignedCert:
+          path: '/home/denis/fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/signcerts/cert.pem'
+    connectionProfile:
+      path: '/home/denis/fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/connection-org1.yaml'
+      discover: true
+  - mspid: Org2MSP
+    identities:
+      certificates:
+      - name: 'User2'
+        clientPrivateKey:
+          path: '/home/denis/fabric-samples/test-network/organizations/peerOrganizations/org2.example.com/users/User1@org2.example.com/msp/keystore/4b693e2837e6f7ada587a36dcf2ccea139606ed2b024a6076d1259c52f7a47ed_sk'
+        clientSignedCert:
+          path: '/home/denis/fabric-samples/test-network/organizations/peerOrganizations/org2.example.com/users/User1@org2.example.com/msp/signcerts/cert.pem'
+    connectionProfile:
+      path: '/home/denis/fabric-samples/test-network/organizations/peerOrganizations/org2.example.com/connection-org2.yaml'
+      discover: true
+      
+
+
+

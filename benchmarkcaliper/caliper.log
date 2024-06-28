@@ -1,0 +1,87 @@
+2023.06.06-13:39:41.743[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-13:39:41.918[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-13:39:41.919[32m info [39m [caliper] [bind] 	Binding for fabric@2.2. This might take some time...
+2023.06.06-13:39:41.919[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-13:39:41.920[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-network@2.2.3 fabric-ca-client@2.2.3
+2023.06.06-13:46:48.827[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-13:46:48.931[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-13:46:48.932[32m info [39m [caliper] [bind] 	Binding for fabric@2.2. This might take some time...
+2023.06.06-13:46:48.933[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-13:46:48.933[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-network@2.2.3 fabric-ca-client@2.2.3
+2023.06.06-13:52:17.578[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-13:52:17.687[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-13:52:17.688[32m info [39m [caliper] [bind] 	Binding for fabric@2.2. This might take some time...
+2023.06.06-13:52:17.688[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-13:52:17.688[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-network@2.2.3 fabric-ca-client@2.2.3
+2023.06.06-14:01:42.182[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-14:01:42.291[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-14:01:42.292[32m info [39m [caliper] [bind] 	Binding for fabric@2.2. This might take some time...
+2023.06.06-14:01:42.292[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-14:01:42.292[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-network@2.2.3 fabric-ca-client@2.2.3
+2023.06.06-14:12:42.256[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-14:12:42.728[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-14:12:42.730[32m info [39m [caliper] [bind] 	Binding for fabric@2.2. This might take some time...
+2023.06.06-14:12:42.730[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-14:12:42.730[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-network@2.2.3 fabric-ca-client@2.2.3
+2023.06.06-14:14:04.932[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-14:14:05.043[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-14:14:05.045[32m info [39m [caliper] [bind] 	Binding for fabric@1.4. This might take some time...
+2023.06.06-14:14:05.045[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-14:14:05.046[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-client@1.4.14 fabric-protos@2.0.0-snapshot.1 fabric-network@1.4.14
+2023.06.06-14:15:00.944[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2023.06.06-14:17:13.823[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-14:17:13.962[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-14:17:13.963[32m info [39m [caliper] [bind] 	Binding for fabric@1.4. This might take some time...
+2023.06.06-14:17:13.965[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-14:17:13.966[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-client@1.4.14 fabric-protos@2.0.0-snapshot.1 fabric-network@1.4.14
+2023.06.06-14:17:43.269[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2023.06.06-14:18:35.605[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-14:18:35.708[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-14:18:35.709[32m info [39m [caliper] [bind] 	Binding for fabric@1.4. This might take some time...
+2023.06.06-14:18:35.709[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-14:18:35.710[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-client@1.4.14 fabric-protos@2.0.0-snapshot.1 fabric-network@1.4.14
+2023.06.06-14:18:51.630[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2023.06.06-14:19:07.810[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-14:19:07.913[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-14:19:07.914[32m info [39m [caliper] [bind] 	Binding for fabric@1.4. This might take some time...
+2023.06.06-14:19:07.914[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-14:19:07.914[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-client@1.4.14 fabric-protos@2.0.0-snapshot.1 fabric-network@1.4.14
+2023.06.06-14:19:22.892[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2023.06.06-14:20:29.535[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-14:20:29.953[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-14:20:29.954[32m info [39m [caliper] [bind] 	Binding for fabric@1.4. This might take some time...
+2023.06.06-14:20:29.955[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-14:20:29.955[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-client@1.4.14 fabric-protos@2.0.0-snapshot.1 fabric-network@1.4.14
+2023.06.06-14:21:17.316[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2023.06.06-14:22:13.232[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-14:22:13.350[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-14:22:13.351[32m info [39m [caliper] [bind] 	Binding for fabric@1.4. This might take some time...
+2023.06.06-14:22:13.351[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-14:22:13.352[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-client@1.4.14 fabric-protos@2.0.0-snapshot.1 fabric-network@1.4.14
+2023.06.06-14:22:57.230[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2023.06.06-14:24:09.045[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-14:24:09.243[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-14:24:09.244[32m info [39m [caliper] [bind] 	Binding for fabric@1.4. This might take some time...
+2023.06.06-14:24:09.244[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-14:24:09.244[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-client@1.4.14 fabric-protos@2.0.0-snapshot.1 fabric-network@1.4.14
+2023.06.06-14:28:18.634[31m error[39m [caliper] [bind] 	Failed to execute "npm" with return code 1.
+2023.06.06-14:28:39.264[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.06-14:28:39.393[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.06-14:28:39.394[32m info [39m [caliper] [bind] 	Binding for fabric@2.2. This might take some time...
+2023.06.06-14:28:39.394[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.06-14:28:39.395[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-network@2.2.3 fabric-ca-client@2.2.3
+2023.06.07-10:39:52.994[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.07-10:39:53.148[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.07-10:39:53.150[32m info [39m [caliper] [bind] 	Binding for fabric@2.2. This might take some time...
+2023.06.07-10:39:53.150[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.07-10:39:53.151[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-network@2.2.3 fabric-ca-client@2.2.3
+2023.06.07-10:40:26.774[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.07-10:40:26.886[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.07-10:40:26.888[32m info [39m [caliper] [bind] 	Binding for fabric@2.2. This might take some time...
+2023.06.07-10:40:26.888[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.07-10:40:26.888[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-network@2.2.3 fabric-ca-client@2.2.3
+2023.06.07-10:41:06.921[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
+2023.06.07-10:41:07.039[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor"
+2023.06.07-10:41:07.040[32m info [39m [caliper] [bind] 	Binding for fabric@2.2. This might take some time...
+2023.06.07-10:41:07.040[32m info [39m [caliper] [bind] 	Using working directory: /home/denis/caliper/caliper-benchmarks/benchmarks/samples/fabric/Fagor
+2023.06.07-10:41:07.041[32m info [39m [caliper] [bind] 	Calling npm with: install fabric-network@2.2.3 fabric-ca-client@2.2.3

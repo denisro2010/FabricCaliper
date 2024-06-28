@@ -1,0 +1,16 @@
+test:
+  name: warranty-check-benchmark
+  description: Benchmark para probar la función ReadAsset del contrato inteligente
+  workers:
+    type: local
+    number: 5
+  rounds:
+    - label: check-warranty
+      description:
+      txNumber: 1000
+      rateControl:
+        type: fixed-rate
+        opts:
+          tps: 150
+      workload:
+        module: ./checkwarranty.js
